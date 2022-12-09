@@ -1,0 +1,7 @@
+.descricao {
+    line-height: 1.3;
+    font-weight: 400;
+    color: var(--cor_texto);
+    text-align: justify;
+
+}

@@ -1,0 +1,28 @@
+.imagem__formacao {
+ border-radius: 5px;
+
+}
+
+#furg {
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background: var(--card_fundo);
+padding: 2rem 3rem;
+}
+
+#alura {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: var(--card_fundo);
+    padding: 2rem 3rem;
+}
+
+#fevalle {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5rem 3rem;
+    background: var(--card_fundo);
+}

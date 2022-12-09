@@ -1,0 +1,25 @@
+:root{
+    --cor_fundo:#F5F5F5;
+    --cabecalho:#a0a0a0;
+    --branco:#ffffff;
+    --cor_texto:#464646;
+    --preto:#000000;
+    --fundo_sobre: #66a5e4;
+    --caixa_skill: #1583f1;
+    --caixa: #a0a0a0;
+    --card_fundo: #FFFFFF;
+    --botao_experiencias: #2A7AE4;
+}
+/*
+<div class="experiencia">
+<img src="" alt="" class="imagem__experiencia">
+<div class="texto__experiencia">
+    <h1 class="titulo__experiencia"></h1>
+    <p class="descricao__experiencia"></p>
+    <ul class="lista__experiencia">
+        <li class="botao__expreiencia"><a href="#" class="link__experiencia">Repositório</a></li>
+        <li class="botao__expreiencia"><a href="#" class="link__experiencia">Ver demo</a></li>
+        
+    </ul>
+</div>
+</div>*/

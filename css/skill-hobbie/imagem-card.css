@@ -1,0 +1,87 @@
+.imagem__card {
+    margin-top: 3rem;
+}
+
+#git {
+    height: 55px;
+    width: 55px;
+    background-image: url("../../imagens/git_icon.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+#html {
+    height: 55px;
+    width: 55px;
+    background-image: url("../../imagens/html.png.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+#java {
+    height: 55px;
+    width: 55px;
+    background-image: url("../../imagens/java.png.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+#css {
+    height: 55px;
+    width: 55px;
+    background-image: url("../../imagens/css.png.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+#Xadrez {
+    background-image: url("../../imagens/logo-xadrez.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+    height: 55px;
+    width: 55px;
+    border-radius: 10px;
+}
+
+#Futebol {
+    background-image: url("../../imagens/logo-futebol.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+    height: 55px;
+    width: 55px;
+    border-radius: 10px;
+}
+
+#pesca {
+    background-image: url("../../imagens/logo-pesca.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+    height: 55px;
+    width: 55px;
+    border-radius: 10px;
+}
+
+#Gamer {
+    background-image: url("../../imagens/logo-gamer.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+    height: 55px;
+    width: 55px;
+    border-radius: 10px;
+}

@@ -1,0 +1,8 @@
+.titulo__card{
+    font-weight: 400;
+    font-size: 19px;
+    color: var(--branco);
+    text-align: center;
+    margin-top: 5px;
+    
+}

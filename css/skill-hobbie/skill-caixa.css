@@ -1,0 +1,10 @@
+
+
+.skill__caixa {
+    display: flex;
+    background-color: var(--caixa_skill);
+    padding: 1rem ;
+    width: auto; 
+    justify-content: center;
+    border-radius: 50px;
+}

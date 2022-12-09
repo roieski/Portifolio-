@@ -1,0 +1,13 @@
+.link__experiencia-demo {
+    color: var(--branco);
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.link__experiencia-repositorio {
+    color: var(--botao_experiencias);
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 19px;
+}

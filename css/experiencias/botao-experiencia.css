@@ -1,0 +1,14 @@
+.botao__expreiencia-demo {
+    margin-right:1rem;
+    margin-top: 1rem;
+    border: 1px solid var(--botao_experiencias);
+    background: var(--botao_experiencias);
+}
+
+.botao__expreiencia-repositorio {
+    margin-right:1rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--botao_experiencias);
+    background: var(--branco);
+}

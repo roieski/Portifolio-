@@ -1,0 +1,6 @@
+.sobre__titulo{
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--preto);
+    text-align: center;
+}

@@ -1,0 +1,59 @@
+.formacao {
+    background-color: var(--fundo_sobre);
+    text-align: center;
+    padding: 4rem;
+}
+
+@media(min-width: 320px){
+   .formacao{
+    margin: 5rem 1rem;
+   }
+
+    .caixa__formacao{
+    flex-direction: column;
+   }
+
+   #furg, #alura{
+    height: 140px;
+    width: 140px;
+   }
+
+   #fevalle{
+    width: 140px;
+    height: 60px;
+   }
+
+   .imagem__formacao{
+      margin: 1rem;
+   }
+}
+
+@media(min-width: 768px){
+   .imagem__formacao{
+      margin: 3rem;
+   }
+}
+
+@media(min-width: 1000px){
+   .formacao{
+    margin: 0;
+   }
+   
+    .caixa__formacao{
+    flex-direction: row;
+   }
+
+   #furg, #alura{
+    width: 192px;
+    height: 192px;
+   }
+
+   #fevalle{
+    width: 192px;
+    height: 95px;
+   }
+
+   .imagem__formacao{
+      margin: 1rem;
+   }
+}

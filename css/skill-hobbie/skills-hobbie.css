@@ -1,0 +1,49 @@
+.skills {
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+@media(max-width: 450px){
+   .skills{
+    margin: 0;
+   }
+
+   .skill__caixa{
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: column;
+    height: 300px;
+    flex-wrap: wrap;
+    align-items: center;
+   }
+
+   .card{
+    margin: 1rem;
+   }
+}
+
+@media(min-width: 768px){
+  
+.card{
+    margin-right: 2rem;
+}
+}
+
+@media(min-width: 1000px){
+   .skills{
+    margin: 8rem 8rem;
+   }
+
+   .skill__caixa{
+   
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: auto;
+   }
+
+   .card{
+    margin: 0 3rem;
+   }
+}

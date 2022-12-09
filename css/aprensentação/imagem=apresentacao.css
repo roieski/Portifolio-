@@ -1,0 +1,10 @@
+.imagem__aprensentacao{
+    background-image: url("../../imagens/perfil.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 100%;
+    border:1px solid var(--preto);
+    padding: 1rem;
+    
+}

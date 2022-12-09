@@ -1,0 +1,9 @@
+.decricao__eu {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.4rem;
+    color: var(--branco);
+    margin-left: 4rem ;
+    margin-right: 4rem ;
+    text-align: justify;
+}

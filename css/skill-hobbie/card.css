@@ -1,0 +1,7 @@
+.card {
+    width: 100px;
+    height: 100px;
+    background-color: var(--caixa);
+    border: 2px solid var(--preto);
+    border-radius: 20%;
+}

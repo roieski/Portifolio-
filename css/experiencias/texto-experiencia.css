@@ -1,0 +1,10 @@
+.texto__experiencia {
+    justify-content: end;
+    display: flex;
+    flex-direction: column;
+    margin-left: 4rem;
+}
+
+.texto__experiencia {
+    margin-right: 4rem;
+}

@@ -1,0 +1,7 @@
+.titulo__skills {
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--branco);
+    margin: 2rem;
+    background-color: var(--preto);
+}

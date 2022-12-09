@@ -1,0 +1,5 @@
+.enviar {
+    background: var(--botao_experiencias);
+    border: 1px solid var(--botao_experiencias);
+    color: var(--branco);   
+}

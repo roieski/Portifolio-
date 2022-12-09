@@ -1,0 +1,6 @@
+.menu__link {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: var(--branco);
+    text-decoration-line: none;
+}
