@@ -1,6 +1,6 @@
 # Portifolio-
-Desafio criar seu Portifolio _ Sprint 3 programa ONE - turma3
-<h1>Requisitos:</h1>
+Desafio criar seu Portifolio _ Sprint 2 _ Front-End _ programa ONE - turma3
+<h1>Requesitos:</h1>
 
 -Deve ter um menu de navegação;<br><br>
 -Deve ter uma imagem que servirá de banner;<br><br>
