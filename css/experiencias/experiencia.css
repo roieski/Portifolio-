@@ -9,6 +9,18 @@
    
 }
 
+#AluraGeek{
+  margin: 5rem;
+}
+
+#conversor{
+  margin: 5rem;
+}
+
+#Hotel{
+  margin: 5rem;
+}
+
 @media(min-width: 320px){
   .experiencia{
     flex-direction: column;
@@ -72,6 +84,10 @@
    }
 
    #forca{
+    flex-direction: row-reverse;
+   }
+
+   #conversor{
     flex-direction: row-reverse;
    }
  
